@@ -1,0 +1,13 @@
+.box {
+  width: 200px;
+  border: 50px solid #c0392b;
+  padding: 50px;
+  margin-bottom: 20px;
+}
+.green {
+  border-color: #2ecc71;
+  display: none;
+}
+.blue {
+  border-color: #3498db;
+}
